@@ -1,0 +1,25 @@
+{
+  "name": "metacrafters-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboongm/metacrafters-solana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboongm/metacrafters-solana/issues"
+  },
+  "homepage": "https://github.com/aboongm/metacrafters-solana#readme",
+  "keywords": [],
+  "dependencies": {
+    "@solana/web3.js": "^1.67.2",
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  }
+}
